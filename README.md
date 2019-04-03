@@ -1,5 +1,5 @@
 # ManifestEmbeddedLinuxBug
-Example project demonstrating a bug with ASP.Net-Core
+Example project demonstrating a bug with ASP.Net-Core: https://github.com/aspnet/AspNetCore/issues/9043
 
 To use run:
 
